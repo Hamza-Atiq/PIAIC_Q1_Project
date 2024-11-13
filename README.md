@@ -45,7 +45,7 @@ The Inventory Management System (IMS) is a console-based application that allows
 
 4. Run the application:
    ```
-   python main.py
+   python Inventory_management_system.py
    ```
 
 ## Usage
