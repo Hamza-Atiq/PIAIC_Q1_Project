@@ -1,0 +1,26 @@
+{
+    "234": {
+        "product_id": "234",
+        "name": "ice cream",
+        "category": "food",
+        "price": "360",
+        "quantity": 14,
+        "expiry_date": "2025-12-12"
+    },
+    "1": {
+        "product_id": "1",
+        "name": "lays masala",
+        "category": "food",
+        "price": "100.0",
+        "quantity": 6,
+        "expiry_date": "2025-10-12"
+    },
+    "2": {
+        "product_id": "2",
+        "name": "dairy milk",
+        "category": "chocolate",
+        "price": "100.0",
+        "quantity": 3,
+        "expiry_date": "2025-04-12"
+    }
+}

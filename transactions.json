@@ -1,0 +1,46 @@
+{
+    "TXN20241113170255": {
+        "transaction_id": "TXN20241113170255",
+        "cashier": "hamza",
+        "timestamp": "2024-11-13T17:02:55.822683",
+        "items": [
+            {
+                "product_id": "234",
+                "quantity": 1,
+                "unit_price": "360",
+                "total_price": "360"
+            }
+        ],
+        "total_amount": "360.00",
+        "payment_received": "500",
+        "change": "140.00"
+    },
+    "TXN20241113185808": {
+        "transaction_id": "TXN20241113185808",
+        "cashier": "hamza",
+        "timestamp": "2024-11-13T18:58:08.263487",
+        "items": [
+            {
+                "product_id": "1",
+                "quantity": 4,
+                "unit_price": "100.0",
+                "total_price": "400.0"
+            },
+            {
+                "product_id": "2",
+                "quantity": 2,
+                "unit_price": "100.0",
+                "total_price": "200.0"
+            },
+            {
+                "product_id": "1",
+                "quantity": 1,
+                "unit_price": "100.0",
+                "total_price": "100.0"
+            }
+        ],
+        "total_amount": "700.00",
+        "payment_received": "1000",
+        "change": "300.00"
+    }
+}
